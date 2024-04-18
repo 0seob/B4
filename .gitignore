@@ -5,7 +5,8 @@
 /cleanui/cleanui-admin-template-angular/node_modules
 /cleanui/.vs
 /.vs
-slnx.sqlite
+.vs/slnx.sqlite
 *.sqlite
+*.suo
 /.vs/*.sqlite
 .vs/*.sqlite` 
