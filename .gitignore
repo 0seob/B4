@@ -4,7 +4,7 @@
 /.vs/slnx.sqlite-journal
 /cleanui/cleanui-admin-template-angular/node_modules
 /cleanui/.vs
-/.vs
+.vs/
 .vs/slnx.sqlite
 *.sqlite
 *.suo
